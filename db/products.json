@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Vela Lavanda",
+    "originalPrice": 350,
+    "price": 300,
+    "image": "img/Velas.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Velon Lavanda",
+    "originalPrice": 500,
+    "price": 450,
+    "image": "img/Velon.png"
+  },
+  {
+    "id": 3,
+    "name": "Almohadilla",
+    "originalPrice": 300,
+    "price": 250,
+    "image": "img/almohadilla-de-semillas.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vela Rosas",
+    "originalPrice": 350,
+    "price": 300,
+    "image": "img/Velas.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Velones",
+    "originalPrice": 500,
+    "price": 450,
+    "image": "img/Velones.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Almohadilla Grande",
+    "originalPrice": 400,
+    "price": 350,
+    "image": "img/almohadilla-de-semillas.jpg"
+  }
+]
